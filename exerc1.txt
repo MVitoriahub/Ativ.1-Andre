@@ -7,5 +7,6 @@ Melhores filmes de todos os tempos, de acordo com a crítica:
 *O Poderoso Chefão;
 *Parasita;
 *Forrest Gump - O Contador de Histórias;
+*Django Livre;
 
 
